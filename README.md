@@ -1,6 +1,19 @@
-# Binary Classification Web App
+# Mushroom Binary Classification Web App
 
 This is a web application built using Streamlit for binary classification of mushroom types as edible or poisonous. The user can choose from different classifiers (Support Vector Machine, Logistic Regression, or Random Forest) and adjust hyperparameters to classify mushrooms based on their features.
+
+## Dependencies
+Ensure you have the following dependencies installed:
+- streamlit
+- pandas
+- numpy
+- scikit-learn
+
+You can install them using pip:
+
+```bash
+pip install streamlit pandas numpy scikit-learn
+```
 
 ## Usage
 
@@ -21,18 +34,7 @@ streamlit run app.py
 - Metrics Visualization: Visualize performance metrics including Confusion Matrix, ROC Curve, and Precision-Recall Curve.
 - Raw Data Display: Option to display the raw mushroom dataset used for classification.
 
-## Dependencies
-Ensure you have the following dependencies installed:
-- streamlit
-- pandas
-- numpy
-- scikit-learn
 
-You can install them using pip:
-
-```bash
-pip install streamlit pandas numpy scikit-learn
-```
 
 
 
