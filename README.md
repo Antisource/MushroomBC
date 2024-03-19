@@ -4,6 +4,11 @@ This is a web application built using Streamlit for binary classification of mus
 
 ## Usage
 
+To clone the Repository:
+   ```bash
+    git clone https://github.com/Antisource/MorseCodeConvertor.git
+   ```
+
 To run the web application, execute the following command:
 
 ```bash
