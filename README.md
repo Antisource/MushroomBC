@@ -19,7 +19,7 @@ pip install streamlit pandas numpy scikit-learn
 
 To clone the Repository:
    ```bash
-    git clone https://github.com/Antisource/MorseCodeConvertor.git
+    git clone https://github.com/Antisource/MushroomBC.git
    ```
 
 To run the web application, execute the following command:
